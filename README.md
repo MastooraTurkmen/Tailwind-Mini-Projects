@@ -20,3 +20,10 @@
 ### Login Modal
 
 ![Alt text](login-modal/images/login-modal.png)
+
+
+### Pricing Cards
+
+![Alt text](pricing-cards/images/pricing-cards.png)
+
+
